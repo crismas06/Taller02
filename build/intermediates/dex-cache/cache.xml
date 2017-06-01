@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/dptoredes/.android/build-cache/80467780a3ff296ff212b5c1b70cdfdcef4ce703/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/dptoredes/AndroidStudioProjects/Taller2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3e802f40e2d5aa3c4ad18cce52fcd27c5cc5645d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dptoredes/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/dptoredes/AndroidStudioProjects/Taller2/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_ef146f61ee89e93ab4ce07705c1945bf083fb6c6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dptoredes/.android/build-cache/7f41defcf53f19df337d771e2a29141c5879329b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/dptoredes/AndroidStudioProjects/Taller2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8c40e85f6efd3512b9cb4aa8921c9bc98dd76f0f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dptoredes/.android/build-cache/40685d5bb9fe0d39cf1bcb2a7faa0902ff24e223/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/dptoredes/AndroidStudioProjects/Taller2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_85f46a3f2a846b6e95c9616c9759bfb8c419e046/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dptoredes/.android/build-cache/d7e9c855c32d2ad208e0e08a932319b389a83807/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/dptoredes/AndroidStudioProjects/Taller2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d9b45ecba6299c0e2e69cd59a7ade367b74fc880/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dptoredes/.android/build-cache/fcbe396eb4318da86da9f36b8ab7a651c56defd0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/dptoredes/AndroidStudioProjects/Taller2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f5fcee82e51c3beab50178b6b5dd28cf8492dfbd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dptoredes/.android/build-cache/ad2aa1bee7e3082d12ab5ab2d3067825c1d7f920/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/dptoredes/AndroidStudioProjects/Taller2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_544780908d7647e5cfd36277318d541d7f7e7eec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dptoredes/.android/build-cache/f714ce04fb1b290aca5425a4048b36f190296a90/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/dptoredes/AndroidStudioProjects/Taller2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_34e7b3e70d26a0a35b5cebb285732c83d06e8da8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dptoredes/AndroidStudioProjects/Taller2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cee77867c059b9ffc193ba62ab33671b6dce3d73">
+        <dex dex="/home/dptoredes/AndroidStudioProjects/Taller2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_1c3c66ff7285d8931027d43f4a32f9b54f4ed77a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dptoredes/.android/build-cache/51b36765132cee0726d7de20ec9b42fbd13cc52c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/dptoredes/AndroidStudioProjects/Taller2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1c28cdce5dbba3d61f2500af767a82d975536664/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dptoredes/.android/build-cache/feae0b849cc71df21bd1aa7211d8cf95ae8ea460/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/dptoredes/AndroidStudioProjects/Taller2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9479ef87e3e71d15e50ef2773d7a45f040fc82cf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dptoredes/AndroidStudioProjects/Taller2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/home/dptoredes/AndroidStudioProjects/Taller2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_1573b0092c45ec0430b0b0caf7197620f34f8f0e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dptoredes/.android/build-cache/8d7ab92e17d3008a578b091dc545eda5a768fad4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/dptoredes/AndroidStudioProjects/Taller2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_194e0f12e1945a14dd2fd10a6e47301d8dcbc559/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dptoredes/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/dptoredes/AndroidStudioProjects/Taller2/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_fa6562544fb207820dd06e80b97ae31ea6fe6605/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,7 @@
+#Thu Jun 01 09:58:29 ECT 2017
+base.0=/home/dptoredes/AndroidStudioProjects/Taller2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_1c3c66ff7285d8931027d43f4a32f9b54f4ed77a
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/dptoredes/AndroidStudioProjects/Taller2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_1573b0092c45ec0430b0b0caf7197620f34f8f0e/classes.dex
+base.1=/home/dptoredes/AndroidStudioProjects/Taller2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_1573b0092c45ec0430b0b0caf7197620f34f8f0e
+file.0=/home/dptoredes/AndroidStudioProjects/Taller2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_1c3c66ff7285d8931027d43f4a32f9b54f4ed77a/classes.dex
